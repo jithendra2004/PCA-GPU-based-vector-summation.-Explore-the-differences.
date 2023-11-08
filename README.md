@@ -156,9 +156,7 @@ int main(int argc, char **argv)
 }
 ```
 ## output
-
-![Screenshot 2023-10-14 110609](https://github.com/jithendra2004/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/94226297/1dfd815b-4d72-4803-a370-35a22a5eadcc)
-
+![272631007-dda5cd94-3730-4284-9415-3438a9380af9](https://github.com/jithendra2004/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/94226297/6485c8b9-c074-42d6-bf65-d77c3080bd63)
 
 ## REsult
 The block size with 512 performs better in the GPU with an elapsed time of 0.019 seconds whereas the block size 1023 performed the operation in 0.02 seconds.Thus, the difference between the execution configurations of PCA-GPU-based vector summation had been explored successfully.
